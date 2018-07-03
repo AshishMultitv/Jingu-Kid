@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "C_Users_cyberlink_AppData_Local_Packages_Microsoft.SkypeApp_kzf8qxf38zg5c_LocalState_e8ed005b-0fbe-430e-9542-aba462ee2c92.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
